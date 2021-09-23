@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "author": "hunter",
+      "style": "blue",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "title": "test",
+      "author": "hunter",
+      "style": "blue",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "author": "hunter",
+      "style": "blue",
+      "id": 6
+    },
+    {
+      "title": "test",
+      "author": "hunter",
+      "style": "blue",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
